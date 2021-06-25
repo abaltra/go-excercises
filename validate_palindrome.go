@@ -17,7 +17,7 @@ func IsValidPalindrome(s string) bool {
 
 	left := 0
 	right := len(s) - 1
-	validChars := "abcdefghijklmnopqrstuvwxyz"
+	validChars := "abcdefghijklmnopqrstuvwxyz0123456789"
 
 	for left < right {
 		if !strings.ContainsRune(validChars, rune(s[left])) {
