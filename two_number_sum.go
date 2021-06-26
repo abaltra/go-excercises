@@ -13,29 +13,20 @@ Output: [0,1]
 Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 */
 
-import (
-	"sort"
-)
-
 func TwoNumberSum(array []int, target int) []int {
 	/*
-		Space: O(1)
-		Runtime: O(nlogn)
+		Memory: O(n)
+		Runtime: O(n)
 	*/
-	sort.Ints(array)
+	m := make(map[int]int, len(array))
 
-	left := 0
-	right := len(array) - 1
-
-	for left < right {
-		diff := target - (array[left] + array[right])
-		if diff == 0 {
-			return []int{array[left], array[right]}
-		} else if diff < 0 {
-			right -= 1
+	for idx, n := range array {
+		if _, ok := m[n]; ok {
+			return []int{m[n], idx}
 		} else {
-			left += 1
+			m[target-n] = idx
 		}
 	}
+
 	return []int{}
 }

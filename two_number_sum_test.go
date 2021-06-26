@@ -8,7 +8,7 @@ func TestTwoNumberSumSortedArray(t *testing.T) {
 		t.Errorf("Expected response, got empty array")
 	}
 
-	expectedResponse := []int{1, 3}
+	expectedResponse := []int{0, 2}
 
 	for expected := range expectedResponse {
 		found := false
@@ -29,7 +29,7 @@ func TestTwoNumberSumUnsortedArray(t *testing.T) {
 		t.Errorf("Expected response, got empty array")
 	}
 
-	expectedResponse := []int{5, 9}
+	expectedResponse := []int{0, 3}
 
 	for expected := range expectedResponse {
 		found := false
@@ -50,7 +50,7 @@ func TestTwoNumberSumNegativeNumbers(t *testing.T) {
 		t.Errorf("Expected response, got empty array")
 	}
 
-	expectedResponse := []int{1, -3}
+	expectedResponse := []int{1, 2}
 
 	for expected := range expectedResponse {
 		found := false
@@ -68,6 +68,6 @@ func TestTwoNumberSumNegativeNumbers(t *testing.T) {
 func TestTwoNumberSumNoResult(t *testing.T) {
 	res := TwoNumberSum([]int{-5, 1, -3, 9, 2}, 20)
 	if len(res) != 0 {
-		t.Errorf("Expected empty array, got")
+		t.Errorf("Expected empty array, got values")
 	}
 }
