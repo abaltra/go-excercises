@@ -28,6 +28,10 @@ func (n *ListNode) ToArray() []int {
 }
 
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+	/*
+		Runtime: O(n) Would have to go through all elements of the shortest list
+		Memory: O(1) We only create 1 extra node and a pointer
+	*/
 	dummy := ListNode{}
 	adder := &dummy
 
