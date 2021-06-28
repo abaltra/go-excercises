@@ -7,4 +7,5 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) -> [Solution](validate_palindrome.go)
 * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) -> [Solution](valid_parenthesis.go)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -> [Solution](merge_sorted_lists.go)
+* [Remove Element](https://leetcode.com/problems/remove-element) -> [Solution](remove_element.go)
 
