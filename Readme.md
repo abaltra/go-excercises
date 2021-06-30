@@ -8,4 +8,5 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) -> [Solution](valid_parenthesis.go)
 * [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) -> [Solution](merge_sorted_lists.go)
 * [Remove Element](https://leetcode.com/problems/remove-element) -> [Solution](remove_element.go)
+* [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) -> [Solution](length_of_last_word.go)
 
