@@ -19,6 +19,10 @@ func addNums(a int, b int, c int) (int, int) {
 }
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+	/*
+	 Runtime: O(n) where n is the length of the longest list
+	 Memory: O(1) we only create one extra node and a reference pointer
+	*/
 	dummy := &ListNode{}
 	result := dummy
 	carry := 0
