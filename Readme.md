@@ -10,4 +10,5 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Remove Element](https://leetcode.com/problems/remove-element) -> [Solution](remove_element.go)
 * [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) -> [Solution](length_of_last_word.go)
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) -> [Solution](add_two_numbers.go)
+* [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> [Solution](longest_palindromic_substring.go)
 
