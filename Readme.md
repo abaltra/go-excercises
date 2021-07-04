@@ -12,4 +12,5 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) -> [Solution](add_two_numbers.go)
 * [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) -> [Solution](longest_palindromic_substring.go)
 * [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) -> [Solution](longest_substring_without_repeating_characters.go)
+* [Zig Zag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> [Solution](zig_zag_conversion.go)
 
