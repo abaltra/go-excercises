@@ -15,4 +15,5 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Zig Zag Conversion](https://leetcode.com/problems/zigzag-conversion/) -> [Solution](zig_zag_conversion.go)
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) -> [Solution](container_with_most_water.go)
 * [Numeral to Roman](https://leetcode.com/problems/integer-to-roman/) -> [Solution](numeral_to_roman.go)
+* [Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Solution](combination_sum.go)
 
