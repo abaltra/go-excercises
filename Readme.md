@@ -18,3 +18,4 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * [Combination Sum](https://leetcode.com/problems/combination-sum/) -> [Solution](combination_sum.go)
 * [Next Permutation](https://leetcode.com/problems/next-permutation/) -> [Solution](next_permutation.go)
 * [Almost Increasing Sequence](https://stackoverflow.com/questions/46445743/how-to-get-almost-increasing-sequence-of-integers/46446694) -> [Solution](almost_increasing_sequence.go)
+* Matrix Element Sum -> [Solution](matrix_element_sum.go)
