@@ -21,3 +21,4 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * Matrix Element Sum -> [Solution](matrix_element_sum.go)
 * All Longest Strings -> [Solution](all_longest_strings.go)
 * Are Similar? -> [Solution](are_similar.go)
+* Sudoku2 -> [Solution](sudoku2.go)
