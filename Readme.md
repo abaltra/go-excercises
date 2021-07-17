@@ -22,3 +22,4 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * All Longest Strings -> [Solution](all_longest_strings.go)
 * Are Similar? -> [Solution](are_similar.go)
 * Sudoku2 -> [Solution](sudoku2.go)
+* SumInRange -> [Solution](sum_in_range.go)
