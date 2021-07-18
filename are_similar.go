@@ -24,7 +24,7 @@ func areSimilar(a []int, b []int) bool {
 
 	idxToSwap := -1
 
-	for idx, _ := range a {
+	for idx := range a {
 		if a[idx] != b[idx] {
 			if idxToSwap == -1 {
 				idxToSwap = idx
@@ -35,7 +35,7 @@ func areSimilar(a []int, b []int) bool {
 		}
 	}
 
-	for idx, _ := range a {
+	for idx := range a {
 		if a[idx] != b[idx] {
 			return false
 		}

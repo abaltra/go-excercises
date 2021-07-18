@@ -23,3 +23,4 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * Are Similar? -> [Solution](are_similar.go)
 * Sudoku2 -> [Solution](sudoku2.go)
 * SumInRange -> [Solution](sum_in_range.go)
+* Max Consecutive Sum -> [Solution](array_max_consecutive_sum2.go)
