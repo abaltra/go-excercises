@@ -26,3 +26,4 @@ I'll use this repo to write Go solutions to hackerank/leet code/etc problems
 * Max Consecutive Sum -> [Solution](array_max_consecutive_sum2.go)
 * Find Longest Subarray by Sum -> [Solution](find_longest_subarray_by_sum.go)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) -> [Solution](product_of_array_except_self.go)
+* [Course Schedule](https://leetcode.com/problems/course-schedule/) -> [Solution](couse_schedule.go)
